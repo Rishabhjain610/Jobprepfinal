@@ -26,7 +26,7 @@ const Job_main = ({ searchParams }) => {
             page: currentPage,
           },
           headers: {
-            "X-RapidAPI-Key": "1d625a00e6msh9523d4e83fe1b82p176cadjsn060f3d518945", // Replace with your API key
+            "X-RapidAPI-Key": "", // Replace with your API key
             "X-RapidAPI-Host": "jsearch.p.rapidapi.com",
           },
         });

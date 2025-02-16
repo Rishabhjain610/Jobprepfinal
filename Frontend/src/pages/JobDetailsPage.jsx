@@ -18,7 +18,7 @@ const JobDetailsPage = () => {
         const response = await axios.get('https://jsearch.p.rapidapi.com/job-details', { 
           params: { job_id: id }, 
           headers: { 
-            'X-RapidAPI-Key': "1d625a00e6msh9523d4e83fe1b82p176cadjsn060f3d518945", 
+            'X-RapidAPI-Key': "", 
             'X-RapidAPI-Host': "jsearch.p.rapidapi.com", 
           },
         });

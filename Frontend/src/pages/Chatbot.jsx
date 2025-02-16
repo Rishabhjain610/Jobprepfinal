@@ -15,7 +15,7 @@ const Chatbot = () => {
   const [loading, setLoading] = useState(false);
 
   const Api_Url =
-    "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBuwOjFcY8x1ztaBj2gjLMeRncejxs9-r0";
+    "";
 
   const generateResponse = async (aiResponseElement, userMessage) => {
     console.log("Sending input to API:", userMessage);
