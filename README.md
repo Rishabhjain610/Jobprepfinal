@@ -17,8 +17,8 @@ The project is built using **React.js** and integrates AI-powered features for a
 ## 🛠️ Tech Stack
 
 - 🔹 **Frontend:** 🟦 React.js, 🎨 Tailwind CSS, HTML, CSS  
-- 🔹 **Backend:** 🔥 Firebase (used for authentication & AI Resume Maker database)  
+- 🔹 **Backend:** 🔥 Firebase (AI Resume Maker database)  
 - 🔹 **AI Services:** 🤖 Gemini API  
 - 🔹 **Version Control:** 🛠️ Git, GitHub  
 ## Demo 
-https://github.com/user-attachments/assets/e7b0c68e-5885-4b17-abbf-28f8f4a65689
+https://github.com/user-attachments/assets/f63ad7d2-d0d1-4329-bb70-cb1c03598567
