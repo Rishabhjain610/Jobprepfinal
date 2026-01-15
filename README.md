@@ -1,3 +1,6 @@
+## Demo 
+https://github.com/user-attachments/assets/f63ad7d2-d0d1-4329-bb70-cb1c03598567
+
 # 💼 Job Prep
 
 **Your AI-powered job preparation assistant** 🚀
@@ -20,5 +23,4 @@ The project is built using **React.js** and integrates AI-powered features for a
 - 🔹 **Backend:** 🔥 Firebase (AI Resume Maker database)  
 - 🔹 **AI Services:** 🤖 Gemini API  
 - 🔹 **Version Control:** 🛠️ Git, GitHub  
-## Demo 
-https://github.com/user-attachments/assets/f63ad7d2-d0d1-4329-bb70-cb1c03598567
+
